@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn==0.13.2
+plotly==6.9.0
+scikit-learn
